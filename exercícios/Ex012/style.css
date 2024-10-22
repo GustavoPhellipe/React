@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#bloco-principal {
+    width: 250px;
+    height: 190px;
+    background-color: orange;
+}
+
+.blocos {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
